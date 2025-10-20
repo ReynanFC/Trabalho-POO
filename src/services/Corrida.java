@@ -6,7 +6,7 @@ import entities.Pista;
 import java.util.Random;
 
 public class Corrida {
-    public static final Random VALOR_ALEATORIO = new Random();
+    public static Random VALOR_ALEATORIO = new Random();
 
     public Corrida() {}
 
